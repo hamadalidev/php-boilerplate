@@ -1,4 +1,4 @@
-# SherPHPFramework
+# Hamad Ali Sher PHP Framework
 
 ## Configuraiton
 With help of config file you manage the configuration for both envirment local and prod. (configs/config.inc.php, configs/config.local.php)
